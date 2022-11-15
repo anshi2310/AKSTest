@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 14 12:13:46 IST 2022
+MavenTest-1.0-SNAPSHOT-jar-with-dependencies.jar>=
+MavenTest-1.0-SNAPSHOT.jar>=
+MavenTest-1.0-SNAPSHOT.pom>=
